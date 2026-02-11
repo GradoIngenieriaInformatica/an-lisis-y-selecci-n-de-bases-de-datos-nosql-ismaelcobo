@@ -1,1 +1,2 @@
 TIPO | Justificación corta
+Base de datos documental | Permite documentos con estructura flexible, campos opcionales y cambios de esquema frecuentes sin migraciones costosas.
