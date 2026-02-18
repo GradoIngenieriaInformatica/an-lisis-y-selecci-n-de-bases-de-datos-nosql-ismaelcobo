@@ -1,2 +1,1 @@
-TIPO | Justificación corta
-Base de datos de series temporales | Optimizada para ingesta masiva de lecturas IoT y consultas eficientes por rangos de tiempo con compresión y políticas de retención.
+BASE DE DATOS DE SERIES TEMPORALES| Optimizada para ingesta masiva de lecturas IoT y consultas eficientes por rangos de tiempo con compresión y políticas de retención.
